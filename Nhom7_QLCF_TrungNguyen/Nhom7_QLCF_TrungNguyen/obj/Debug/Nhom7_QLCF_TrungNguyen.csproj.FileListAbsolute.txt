@@ -1,0 +1,83 @@
+E:\đồ án\CNPM\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\bin\Debug\Nhom7_QLCF_TrungNguyen.exe.config
+E:\đồ án\CNPM\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\bin\Debug\Nhom7_QLCF_TrungNguyen.exe
+E:\đồ án\CNPM\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\bin\Debug\Nhom7_QLCF_TrungNguyen.pdb
+E:\đồ án\CNPM\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.csproj.AssemblyReference.cache
+E:\đồ án\CNPM\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.Properties.Resources.resources
+E:\đồ án\CNPM\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.csproj.GenerateResource.cache
+E:\đồ án\CNPM\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.csproj.CoreCompileInputs.cache
+E:\đồ án\CNPM\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.exe
+E:\đồ án\CNPM\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.pdb
+E:\đồ án\CNPM\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.Dangki.resources
+E:\đồ án\CNPM\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.DangNhap.resources
+E:\đồ án\CNPM\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.ManagementForm.resources
+E:\đồ án\CNPM\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.QuenMatKhau.resources
+C:\Users\MY PC\Desktop\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\bin\Debug\Nhom7_QLCF_TrungNguyen.exe.config
+C:\Users\MY PC\Desktop\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\bin\Debug\Nhom7_QLCF_TrungNguyen.exe
+C:\Users\MY PC\Desktop\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\bin\Debug\Nhom7_QLCF_TrungNguyen.pdb
+C:\Users\MY PC\Desktop\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.csproj.AssemblyReference.cache
+C:\Users\MY PC\Desktop\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.ManagementForm.resources
+C:\Users\MY PC\Desktop\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.Properties.Resources.resources
+C:\Users\MY PC\Desktop\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.csproj.GenerateResource.cache
+C:\Users\MY PC\Desktop\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Desktop\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.exe
+C:\Users\MY PC\Desktop\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.pdb
+D:\1711\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\bin\Debug\Nhom7_QLCF_TrungNguyen.exe.config
+D:\1711\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\bin\Debug\Nhom7_QLCF_TrungNguyen.exe
+D:\1711\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\bin\Debug\Nhom7_QLCF_TrungNguyen.pdb
+D:\1711\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.csproj.AssemblyReference.cache
+D:\1711\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.ManagementForm.resources
+D:\1711\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.Properties.Resources.resources
+D:\1711\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.csproj.GenerateResource.cache
+D:\1711\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.csproj.CoreCompileInputs.cache
+D:\1711\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.exe
+D:\1711\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.pdb
+D:\1711\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Giaodiendangnhap.DangKy.resources
+D:\1711\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Giaodiendangnhap.DangNhap.resources
+D:\1711\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Giaodiendangnhap.GiaoDienKho.resources
+D:\1711\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Giaodiendangnhap.Home.resources
+D:\1711\caithien\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Giaodiendangnhap.QuenMatKhau.resources
+D:\Z_NMPM(S)\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\bin\Debug\Nhom7_QLCF_TrungNguyen.exe.config
+D:\Z_NMPM(S)\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\bin\Debug\Nhom7_QLCF_TrungNguyen.exe
+D:\Z_NMPM(S)\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\bin\Debug\Nhom7_QLCF_TrungNguyen.pdb
+D:\Z_NMPM(S)\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.csproj.AssemblyReference.cache
+D:\Z_NMPM(S)\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Giaodiendangnhap.DangKy.resources
+D:\Z_NMPM(S)\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Giaodiendangnhap.DangNhap.resources
+D:\Z_NMPM(S)\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Giaodiendangnhap.GiaoDienKho.resources
+D:\Z_NMPM(S)\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Giaodiendangnhap.Home.resources
+D:\Z_NMPM(S)\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.ManagementForm.resources
+D:\Z_NMPM(S)\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.Properties.Resources.resources
+D:\Z_NMPM(S)\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Giaodiendangnhap.QuenMatKhau.resources
+D:\Z_NMPM(S)\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.csproj.GenerateResource.cache
+D:\Z_NMPM(S)\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.csproj.CoreCompileInputs.cache
+D:\Z_NMPM(S)\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.exe
+D:\Z_NMPM(S)\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.pdb
+D:\Công việc\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\bin\Debug\Nhom7_QLCF_TrungNguyen.exe.config
+D:\Công việc\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\bin\Debug\Nhom7_QLCF_TrungNguyen.exe
+D:\Công việc\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\bin\Debug\Nhom7_QLCF_TrungNguyen.pdb
+D:\Công việc\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.csproj.AssemblyReference.cache
+D:\Công việc\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Giaodiendangnhap.DangKy.resources
+D:\Công việc\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Giaodiendangnhap.DangNhap.resources
+D:\Công việc\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Giaodiendangnhap.GiaoDienKho.resources
+D:\Công việc\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Giaodiendangnhap.Home.resources
+D:\Công việc\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.ManagementForm.resources
+D:\Công việc\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.Properties.Resources.resources
+D:\Công việc\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Giaodiendangnhap.QuenMatKhau.resources
+D:\Công việc\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.csproj.GenerateResource.cache
+D:\Công việc\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.csproj.CoreCompileInputs.cache
+D:\Công việc\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.exe
+D:\Công việc\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.pdb
+D:\Công việc\cnpm\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\bin\Debug\Nhom7_QLCF_TrungNguyen.exe.config
+D:\Công việc\cnpm\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\bin\Debug\Nhom7_QLCF_TrungNguyen.exe
+D:\Công việc\cnpm\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\bin\Debug\Nhom7_QLCF_TrungNguyen.pdb
+D:\Công việc\cnpm\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.csproj.AssemblyReference.cache
+D:\Công việc\cnpm\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Giaodiendangnhap.DangKy.resources
+D:\Công việc\cnpm\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Giaodiendangnhap.DangNhap.resources
+D:\Công việc\cnpm\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Giaodiendangnhap.GiaoDienKho.resources
+D:\Công việc\cnpm\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Giaodiendangnhap.Home.resources
+D:\Công việc\cnpm\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.ManagementForm.resources
+D:\Công việc\cnpm\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.Properties.Resources.resources
+D:\Công việc\cnpm\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Giaodiendangnhap.QuenMatKhau.resources
+D:\Công việc\cnpm\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.csproj.GenerateResource.cache
+D:\Công việc\cnpm\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.csproj.CoreCompileInputs.cache
+D:\Công việc\cnpm\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.exe
+D:\Công việc\cnpm\TTT\TNguyen_New\Nhom7_QLCF_TrungNguyen\Nhom7_QLCF_TrungNguyen\obj\Debug\Nhom7_QLCF_TrungNguyen.pdb
